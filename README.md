@@ -70,7 +70,7 @@ Right now I'm:
 | Project | Description | Tech | Live |
 |---------|-------------|------|------|
 | 🎮 **Inksy** | Real-time multiplayer drawing and guessing game with live canvas sync, word categories, scoring, reactions and mobile support | React · Node.js · Socket.io · MySQL · MongoDB | [inksy.vercel.app](https://inksy.vercel.app) |
-| 🏛️ **LGC System** | Local Government Complaint management system with role-based access, SLA tracking and Chart.js dashboards | Flask · MySQL · Chart.js | Coming Soon |
+| 🏛️ **LGC System** | Local Government Complaint management system with role-based access, SLA tracking and Chart.js dashboards | Flask · MySQL · Chart.js | [Live Demo](https://web-production-0512c.up.railway.app) |
 
 ---
 
