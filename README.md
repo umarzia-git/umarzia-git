@@ -99,18 +99,11 @@ Feel free to reach out or check out my work!
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=umarzia-git&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+[![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umarzia-git&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/umarzia-git)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=umarzia-git&theme=dark&hide_border=false&layout=compact)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umarzia-git&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/umarzia-git)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=umarzia-git&theme=dark&hide_border=false)
-
-![Profile Views](https://visitcount.itsvg.in/api?id=umarzia-git&icon=0&color=6)
+[![GitHub Streak](https://streak-stats.demolab.com?user=umarzia-git&theme=tokyonight&hide_border=true)](https://github.com/umarzia-git)
 
 </div>
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
-
 </div>
