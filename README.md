@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Umar%20Zia&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20React%20%C2%B7%20Node.js%20%C2%B7%20App%20Development&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Umar%20Zia&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=React%20%C2%B7%20Node.js%20%C2%B7%20Flask%20%C2%B7%20App%20Development&descAlignY=55&descSize=18)
 
 </div>
 
@@ -96,9 +96,15 @@ Feel free to reach out or check out my work!
 - 🎮 Live Project — [inksy.vercel.app](https://inksy.vercel.app)
 
 ---
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%2B+Node.js+Builder;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Umar+Zia;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
+</div>
