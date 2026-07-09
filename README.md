@@ -96,14 +96,9 @@ Feel free to reach out or check out my work!
 - 🎮 Live Project — [inksy.vercel.app](https://inksy.vercel.app)
 
 ---
-
 <div align="center">
 
-[![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umarzia-git&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/umarzia-git)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umarzia-git&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/umarzia-git)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=umarzia-git&theme=tokyonight&hide_border=true)](https://github.com/umarzia-git)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%2B+Node.js+Builder;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
-</div>
+
