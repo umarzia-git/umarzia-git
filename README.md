@@ -92,10 +92,11 @@ When I'm not coding, you'll find me:
 Feel free to reach out or check out my work!
 
 - 📧 Email — [umerzia600@gmail.com](mailto:umerzia600@gmail.com)
-- 💼 LinkedIn — [Umar Zia](https://linkedin.com/in/umar-zia-dev)
+- 💼 LinkedIn — [Umar Zia](https://linkedin.com/in/umer-zia-dev)
 - 🐙 GitHub — [umarzia-git](https://github.com/umarzia-git)
-- 🎮 Live Project — [inksy.vercel.app](https://inksy.vercel.app)
-
+- 🎮 Live Projects — [inksy.vercel.app](https://inksy.vercel.app)
+- [getdevcollab.vercel.app](https://getdevcollab.vercel.app/)
+[LGC System](https://web-production-0512c.up.railway.app)
 ---
 
 <div align="center">
