@@ -71,6 +71,7 @@ Right now I'm:
 |---------|-------------|------|------|
 | 🎮 **Inksy** | Real-time multiplayer drawing and guessing game with live canvas sync, word categories, scoring, reactions and mobile support | React · Node.js · Socket.io · MySQL · MongoDB | [inksy.vercel.app](https://inksy.vercel.app) |
 | 🏛️ **LGC System** | Local Government Complaint management system with role-based access, SLA tracking and Chart.js dashboards | Flask · MySQL · Chart.js | [Live Demo](https://web-production-0512c.up.railway.app) |
+| 💻 **DevCollab** | Real-time collaborative code editor. Multiple developers code together simultaneously — powered by CRDTs, Yjs, and Socket.io | React · Node.js · Yjs · MongoDB · CodeMirror | [getdevcollab.vercel.app](https://getdevcollab.vercel.app) |
 
 ---
 
